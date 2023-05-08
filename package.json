@@ -1,0 +1,9 @@
+{
+	"name": "git-filter-repo-action",
+	"description": "Filters unneeded objects from a git repository using git-filter-repo",
+	"version": "1.0.0",
+	"author": "Eamon O'Callaghan <eamon0989@gmail.com>",
+	"dependencies": {
+		"@actions/core": "^1.10.0"
+	}
+}

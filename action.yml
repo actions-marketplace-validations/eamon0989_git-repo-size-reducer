@@ -1,0 +1,5 @@
+name: 'git-filter-repo-action'
+description: 'Filters unneeded objects from a git repository using git-filter-repo'
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

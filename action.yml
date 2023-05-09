@@ -1,4 +1,4 @@
-name: 'git-filter-repo-action'
+name: 'git-repo-size-reducer'
 description: 'Filters unneeded objects from a git repository using git-filter-repo'
 runs:
   using: 'docker'

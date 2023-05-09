@@ -1,5 +1,5 @@
 {
-	"name": "git-filter-repo-action",
+	"name": "git-repo-size-reducer-action",
 	"description": "Filters unneeded objects from a git repository using git-filter-repo",
 	"version": "1.0.0",
 	"author": "Eamon O'Callaghan <eamon0989@gmail.com>",

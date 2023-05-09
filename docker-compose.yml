@@ -2,6 +2,6 @@ version: '3.8'
 
 services:
   app:
-    image: git-filter-repo-action
+    image: git-repo-size-reducer-action
     build: .
     

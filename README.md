@@ -17,6 +17,8 @@ It now contains 0 megabytes or 35 kilobytes of objects.
 You have filtered 4 megabytes or 4570 kilobytes of objects from your git repository.
 ```
 
+The most useful feature of this is that you don't have to rewrite the history of your main repo, which can cause problems when working with other developers. Running this action will not affect your main repository, and the rewritten (smaller) history can be push directly to Heroku or another cloud provider.
+
 ## Example usage
 
 ```yml

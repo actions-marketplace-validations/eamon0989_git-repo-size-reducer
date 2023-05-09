@@ -29,8 +29,7 @@ heroku:
     - uses: actions/checkout@v3
         with:
           fetch-depth: 0
-    - name: Docker-test-action
-      id: hello
+    - name: Git Repo Size Reducer
       uses: eamon0989/git-repo-size-reducer@v1
 
     # add your logic to deploy the branch here

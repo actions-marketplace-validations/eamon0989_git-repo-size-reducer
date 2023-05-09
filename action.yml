@@ -1,5 +1,7 @@
-name: 'git-repo-size-reducer'
-description: 'Filters unneeded objects from a git repository using git-filter-repo'
+name: 'Git Repo Size Reducer'
+description: 'Filters unneeded objects from a git repository using git-filter-repo to reduce the size before deployment'
 runs:
   using: 'docker'
   image: 'Dockerfile'
+branding:
+  icon: 'git-commit'
